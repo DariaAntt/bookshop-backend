@@ -1,0 +1,153 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\arrow.png",
+      "PackagePath": "staticwebassets\\img\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\1984.png",
+      "PackagePath": "staticwebassets\\img\\books\\1984.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\algorithms.png",
+      "PackagePath": "staticwebassets\\img\\books\\algorithms.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\art.png",
+      "PackagePath": "staticwebassets\\img\\books\\art.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\art_of_war.png",
+      "PackagePath": "staticwebassets\\img\\books\\art_of_war.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\atlas.png",
+      "PackagePath": "staticwebassets\\img\\books\\atlas.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\backsad.png",
+      "PackagePath": "staticwebassets\\img\\books\\backsad.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\cafe.png",
+      "PackagePath": "staticwebassets\\img\\books\\cafe.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\ege.png",
+      "PackagePath": "staticwebassets\\img\\books\\ege.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\game_theory.png",
+      "PackagePath": "staticwebassets\\img\\books\\game_theory.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\hokking.png",
+      "PackagePath": "staticwebassets\\img\\books\\hokking.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\java_programming.png",
+      "PackagePath": "staticwebassets\\img\\books\\java_programming.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\kortik.png",
+      "PackagePath": "staticwebassets\\img\\books\\kortik.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\martin_iden.png",
+      "PackagePath": "staticwebassets\\img\\books\\martin_iden.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\master_margarita.png",
+      "PackagePath": "staticwebassets\\img\\books\\master_margarita.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\mumi_troll.png",
+      "PackagePath": "staticwebassets\\img\\books\\mumi_troll.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\onegin.png",
+      "PackagePath": "staticwebassets\\img\\books\\onegin.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\sad_facts_about_animals.png",
+      "PackagePath": "staticwebassets\\img\\books\\sad_facts_about_animals.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\sapiens.png",
+      "PackagePath": "staticwebassets\\img\\books\\sapiens.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\three_in_boat.png",
+      "PackagePath": "staticwebassets\\img\\books\\three_in_boat.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\we.png",
+      "PackagePath": "staticwebassets\\img\\books\\we.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\delete.png",
+      "PackagePath": "staticwebassets\\img\\delete.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\favorite.png",
+      "PackagePath": "staticwebassets\\img\\favorite.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\heart1.png",
+      "PackagePath": "staticwebassets\\img\\heart1.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\heart2.png",
+      "PackagePath": "staticwebassets\\img\\heart2.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\image.png",
+      "PackagePath": "staticwebassets\\img\\image.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\image1.png",
+      "PackagePath": "staticwebassets\\img\\image1.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\image2.png",
+      "PackagePath": "staticwebassets\\img\\image2.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\image3.png",
+      "PackagePath": "staticwebassets\\img\\image3.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\logo.jpg",
+      "PackagePath": "staticwebassets\\img\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\plus.png",
+      "PackagePath": "staticwebassets\\img\\plus.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\shopping-basket.png",
+      "PackagePath": "staticwebassets\\img\\shopping-basket.png"
+    },
+    {
+      "Id": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\sign-in.png",
+      "PackagePath": "staticwebassets\\img\\sign-in.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.backend.props",
+      "PackagePath": "build\\backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.backend.props",
+      "PackagePath": "buildMultiTargeting\\backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.backend.props",
+      "PackagePath": "buildTransitive\\backend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
