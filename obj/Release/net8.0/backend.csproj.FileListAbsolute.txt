@@ -48,3 +48,8 @@ C:\Users\Дарья\Documents\учеба\8 семестр\Программиро
 C:\Users\Дарья\Documents\учеба\8 семестр\Программирование сетевых приложений\Bookshop2\bookshop\backend\obj\Release\net8.0\backend.pdb
 C:\Users\Дарья\Documents\учеба\8 семестр\Программирование сетевых приложений\Bookshop2\bookshop\backend\obj\Release\net8.0\backend.genruntimeconfig.cache
 C:\Users\Дарья\Documents\учеба\8 семестр\Программирование сетевых приложений\Bookshop2\bookshop\backend\obj\Release\net8.0\ref\backend.dll
+C:\Users\Дарья\Documents\учеба\8 семестр\Программирование сетевых приложений\Bookshop2\bookshop\backend\bin\Release\net8.0\publish\web.config
+C:\Users\Дарья\Documents\учеба\8 семестр\Программирование сетевых приложений\Bookshop2\bookshop\backend\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Дарья\Documents\учеба\8 семестр\Программирование сетевых приложений\Bookshop2\bookshop\backend\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Дарья\Documents\учеба\8 семестр\Программирование сетевых приложений\Bookshop2\bookshop\backend\bin\Release\net8.0\publish\backend.deps.json
+C:\Users\Дарья\Documents\учеба\8 семестр\Программирование сетевых приложений\Bookshop2\bookshop\backend\bin\Release\net8.0\publish\backend.runtimeconfig.json
