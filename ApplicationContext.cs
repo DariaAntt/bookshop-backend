@@ -5,12 +5,10 @@ public class ApplicationContext:DbContext{
     public DbSet<Favorite> Favorites {get;set;} = null!;
 
     public ApplicationContext(){
-        // Database.EnsureDeleted();
-        // Database.EnsureCreated();
 
         var databaseCreated = Database.EnsureCreated();
 
-        if (databaseCreated){
+        if (!Books.Any()){
             Book book1 = new Book {
                 Title = "Трое в лодке, не считая собаки", 
                 Author="Джером Джером Клапка", 
@@ -388,7 +386,17 @@ public class ApplicationContext:DbContext{
 
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder){
-        optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=bookshop;Username=postgres;Password=1111");
+        var connectionString = Environment.GetEnvironmentVariable("DATABASE_CONNECTION_STRING");
+        if (!string.IsNullOrEmpty(connectionString))
+        {
+            optionsBuilder.UseNpgsql(connectionString);
+        }
+        else
+        {
+            // Для локального тестирования можно использовать локальную строку подключения
+            optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=bookshop;Username=postgres;Password=1111");
+        }
+        // optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=bookshop;Username=postgres;Password=1111");
     }
 
 
