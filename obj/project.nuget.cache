@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L5hzV6r6XiY=",
+  "dgSpecHash": "6T8b4DzsaD4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\backend.csproj",
+  "projectFilePath": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Дарья\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.6\\microsoft.aspnetcore.openapi.8.0.6.nupkg.sha512",
     "C:\\Users\\Дарья\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.3\\microsoft.entityframeworkcore.9.0.3.nupkg.sha512",

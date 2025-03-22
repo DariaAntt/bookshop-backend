@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4DElXdd0M3bGeXDhIYbUPTQ1pQ9EmtOWoChX2XFQrrY=",
+  "Hash": "E9+g39rJ6U1RLA/MuE1LmaT9qRIjW0FMxTBVH3W97SI=",
   "Source": "backend",
   "BasePath": "_content/backend",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "backend\\wwwroot",
       "Source": "backend",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\arrow.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\arrow.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/arrow.png",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\img\\arrow.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\1984.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\1984.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/books/1984.png",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\img\\books\\1984.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\algorithms.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\algorithms.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/books/algorithms.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\img\\books\\algorithms.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\art_of_war.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\art_of_war.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/books/art_of_war.png",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\img\\books\\art_of_war.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\art.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\art.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/books/art.png",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\img\\books\\art.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\atlas.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\atlas.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/books/atlas.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\img\\books\\atlas.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\backsad.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\backsad.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/books/backsad.png",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\img\\books\\backsad.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\cafe.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\cafe.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/books/cafe.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\img\\books\\cafe.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\ege.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\ege.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/books/ege.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\img\\books\\ege.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\game_theory.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\game_theory.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/books/game_theory.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\books\\game_theory.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\hokking.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\hokking.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/books/hokking.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\img\\books\\hokking.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\java_programming.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\java_programming.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/books/java_programming.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\img\\books\\java_programming.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\kortik.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\kortik.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/books/kortik.png",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\img\\books\\kortik.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\martin_iden.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\martin_iden.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/books/martin_iden.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\img\\books\\martin_iden.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\master_margarita.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\master_margarita.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/books/master_margarita.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\img\\books\\master_margarita.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\mumi_troll.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\mumi_troll.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/books/mumi_troll.png",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\img\\books\\mumi_troll.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\onegin.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\onegin.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/books/onegin.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\books\\onegin.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\sad_facts_about_animals.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\sad_facts_about_animals.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/books/sad_facts_about_animals.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\img\\books\\sad_facts_about_animals.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\sapiens.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\sapiens.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/books/sapiens.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\img\\books\\sapiens.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\three_in_boat.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\three_in_boat.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/books/three_in_boat.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\img\\books\\three_in_boat.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\we.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\books\\we.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/books/we.png",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\img\\books\\we.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\delete.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\delete.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/delete.png",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\img\\delete.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\favorite.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\favorite.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/favorite.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\img\\favorite.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\heart1.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\heart1.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/heart1.png",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\img\\heart1.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\heart2.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\heart2.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/heart2.png",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\img\\heart2.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\image.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\image.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/image.png",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\img\\image.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\image1.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\image1.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/image1.png",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\img\\image1.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\image2.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\image2.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/image2.png",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\img\\image2.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\image3.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\image3.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/image3.png",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\img\\image3.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\logo.jpg",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\logo.jpg",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/logo.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.jpg"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\plus.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\plus.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/plus.png",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\img\\plus.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\shopping-basket.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\shopping-basket.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/shopping-basket.png",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shopping-basket.png"
     },
     {
-      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\sign-in.png",
+      "Identity": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\img\\sign-in.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Программирование сетевых приложений\\Bookshop2\\bookshop\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Дарья\\Documents\\учеба\\8 семестр\\Bookshop2\\bookshop\\backend\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "img/sign-in.png",
       "AssetKind": "All",

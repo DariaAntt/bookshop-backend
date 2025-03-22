@@ -1,5 +1,13 @@
 
 var builder = WebApplication.CreateBuilder(args);
+builder.WebHost.ConfigureKestrel(options =>
+{
+    options.ListenAnyIP(80);
+    options.ListenAnyIP(443, listenOptions =>
+    {
+        listenOptions.UseHttps();
+    });
+});
 AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
 
 var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
@@ -25,10 +33,9 @@ builder.Services.AddControllers();
 builder.Services.AddControllers();
 builder.Services.AddCors(options => {
     options.AddPolicy("AllowReactApp", builder => {
-        builder.WithOrigins("http://localhost:3000").AllowAnyHeader().AllowAnyMethod();
+        builder.WithOrigins().AllowAnyHeader().AllowAnyMethod();
     });
 });
-
 
 var app = builder.Build();
 
@@ -43,10 +50,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
 app.MapControllers();
 
 //----------
-
 
 app.Run();
