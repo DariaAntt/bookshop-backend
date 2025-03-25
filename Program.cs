@@ -1,26 +1,13 @@
 
 var builder = WebApplication.CreateBuilder(args);
-builder.WebHost.ConfigureKestrel(options =>
-{
-    options.ListenAnyIP(80);
-    options.ListenAnyIP(443, listenOptions =>
-    {
-        listenOptions.UseHttps();
-    });
-});
-AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
+builder.Services.AddDbContext<ApplicationContext>();
+
 
 var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
 builder.WebHost.UseUrls($"http://0.0.0.0:{port}");
 
+AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
 
-using(ApplicationContext db = new ApplicationContext()){
-
-    var books = db.Books.ToList();
-    foreach(var book in books){
-        System.Console.WriteLine(book.Title);
-    }
-}
 
 
 // Add services to the container.
@@ -33,7 +20,8 @@ builder.Services.AddControllers();
 builder.Services.AddControllers();
 builder.Services.AddCors(options => {
     options.AddPolicy("AllowReactApp", builder => {
-        builder.WithOrigins().AllowAnyHeader().AllowAnyMethod();
+        builder.WithOrigins("https://bookshop-frontend-25k2p58sb-daria-ants-projects.vercel.app",
+                            "https://bookshop-frontend-rose.vercel.app").AllowAnyHeader().AllowAnyMethod();
     });
 });
 
@@ -51,6 +39,23 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.MapControllers();
+
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<ApplicationContext>();
+    try
+    {
+        var books = db.Books.ToList();
+        foreach (var book in books)
+        {
+            Console.WriteLine(book.Title);
+        }
+    }
+    catch (Exception ex)
+    {
+        Console.WriteLine($"DB Error on startup: {ex.Message}");
+    }
+}
 
 //----------
 
